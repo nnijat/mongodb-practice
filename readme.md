@@ -1,5 +1,5 @@
 ## Intro
-We are trying to write a nodejs program that will allow our code to communicate to our database. Communicate means to send data to the database to save and retrieve data to look at. There is no built in way to talk to a database in nodejs or javascript. We have to use a tool (npm package) that will do the talking for us. The most basic tool we can use to do this is what is refered to as the mongodb driver. This is nothing more than a npm package that we can install and use. 
+We are trying to write a nodejs program that will allow our code running on our computer to communicate with our database that is on another computer. Communicate means to send data to the database to save and retrieve data to look at. There is no built in way to talk to a database in nodejs or javascript. We have to use a tool (npm package) that will do the talking for us. The most basic tool we can use to do this is what is refered to as the mongodb driver. This is nothing more than a npm package that we can install and use. 
 
 ## Connecting
 * Before computers can talk to each other they must know where they are. Before you can call someone, you must know their phone number.
