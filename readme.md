@@ -7,7 +7,7 @@ We are trying to write a nodejs program that will allow our code to communicate 
 * A connection string is the phone number of a database.
 * Run the code and make sure you can at least connect to your database.
 * Connecting is an asynchronous operation so there needs to be a callback function to run when connecting is done.
-* You cannot send or recieve data until the phone call is made and someone answers.
+* You cannot start talking to someone on the phone as soon as you dial. You have to wait until it rings and they pick up.
 
 ## findSomething
 * This is how we use the driver code to retrieve something from the database we connected to
