@@ -5,7 +5,7 @@ We are trying to write a nodejs program that will allow our code running on our 
 * Before computers can talk to each other they must know where they are. Before you can call someone, you must know their phone number.
 * Make sure you have the connection string for your database. 
 * A connection string is the phone number of a database.
-* Assign your database connections string to the url variable.
+* Assign your database connection string to the url variable.
 * Run the code and make sure you can at least connect to your database.
 * Connecting is an asynchronous operation so there needs to be a callback function to run when connecting is done.
 * You cannot start talking to someone on the phone as soon as you dial. You have to wait until it rings and they pick up.
