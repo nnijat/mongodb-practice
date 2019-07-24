@@ -1,6 +1,7 @@
 ## Intro
 We are trying to write a nodejs program that will allow our code running on our computer to communicate with a database that is on another computer. Communicate means to send data to the database to save and retrieve data to look at. There is no built in way to talk to a database in nodejs or javascript. We have to use a tool (npm package) that will do the talking for us. The most basic tool we can use is the mongodb client. This is nothing more than a npm package that we can install and use. 
-
+## Setup
+* fork, clone, npm install
 ## Connecting
 * Before computers can talk to each other they must know where they are. Before you can call someone, you must know their phone number.
 * Make sure you have the connection string for your database. 
