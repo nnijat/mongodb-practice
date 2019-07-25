@@ -1,6 +1,7 @@
 module.exports = [{
+    "_id": 1,
     "name": "Body Luxuries Sweet Lavender Hand Sanitizer",
-    "description": "Makes your hands clean",
+    "description": "Psychotropic drugs, not elsewhere classified",
     "reviews": 46,
     "rating": 2,
     "imgUrl": "http://dummyimage.com/136x167.bmp/cc0000/ffffff",
@@ -38,8 +39,9 @@ module.exports = [{
       "rating": 1
     }]
   }, {
+    "_id": 2,
     "name": "Topiramate",
-    "description": "A wonderful medicine that makes everything all better",
+    "description": "Injury of ulnar nerve at forearm level, left arm, sequela",
     "reviews": 2,
     "rating": 2,
     "imgUrl": "http://dummyimage.com/125x134.jpg/cc0000/ffffff",
@@ -63,9 +65,9 @@ module.exports = [{
     }
   ]
   }, {
-
+    "_id": 3,
     "name": "Almond",
-    "description": "A great treat that tastes great",
+    "description": "Other disorders of continuity of bone, unsp tibia and fibula",
     "reviews": 27,
     "rating": 5,
     "imgUrl": "http://dummyimage.com/149x190.jpg/dddddd/000000",
@@ -83,6 +85,7 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 4,
     "name": "VYTORIN",
     "description": "Orchard as the place of occurrence of the external cause",
     "reviews": 60,
@@ -102,8 +105,9 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 5,
     "name": "Decolorized Iodine",
-    "description": "Kills germs on contact",
+    "description": "Injury",
     "reviews": 20,
     "rating": 1,
     "imgUrl": "http://dummyimage.com/120x245.jpg/cc0000/ffffff",
@@ -121,8 +125,9 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 6,
     "name": "Fresh Sugar Honey Tinted Lip Treatment SPF15",
-    "description": "Fix those chapped lips. ",
+    "description": "Unspecified open wound ",
     "reviews": 79,
     "rating": 3,
     "imgUrl": "http://dummyimage.com/211x227.bmp/5fa2dd/ffffff",
@@ -140,6 +145,7 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 7,
     "name": "LBel",
     "description": "2-Propanol",
     "reviews": 76,
@@ -159,8 +165,9 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 8,
     "name": "Cholestyramine",
-    "description": "Help reduce cholesteral in the system",
+    "description": "Laceration without foreign body of trachea, sequela",
     "reviews": 74,
     "rating": 3,
     "imgUrl": "http://dummyimage.com/204x175.jpg/5fa2dd/ffffff",
@@ -178,6 +185,7 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 9,
     "name": "Risperidone",
     "description": "cephalospor/oth beta-lactm antibiot, undet, sequela",
     "reviews": 9,
@@ -197,6 +205,7 @@ module.exports = [{
     }
   ]
   }, {
+    "_id": 10,
     "name": "MAC",
     "description": "Other Gram-negative sepsis",
     "reviews": 45,
